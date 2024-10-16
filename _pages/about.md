@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://economics.rice.edu>Department of Economics, Rice University</a>.
+subtitle: <a href='economics.rice.edu'>Department of Economics, Rice University</a>.
 
 profile:
   align: right
