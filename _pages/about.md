@@ -6,9 +6,9 @@ subtitle: Department of Economics, Rice University.
 
 profile:
   align: right
-  image: _I6A0544.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
+  image: 2.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
