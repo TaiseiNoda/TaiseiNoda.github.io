@@ -6,8 +6,8 @@ subtitle: <a href="https://economics.rice.edu">Department of Economics, Rice Uni
 
 profile:
   align: right
-  image: _I6A0544.JPG
-  image_circular: false # crops the image to make it circular
+  image: taisei_prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 news: false # includes a list of news items
