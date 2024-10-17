@@ -6,7 +6,7 @@ subtitle: Department of Economics, Rice University.
 
 profile:
   align: right
-  image: 2.jpg
+  image: taisei_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
